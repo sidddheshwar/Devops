@@ -15,3 +15,5 @@ echo "Addition: $(( a + b ))"
 echo "Substraction: $(( a - b ))"
 echo "Multiplication: $(( a * b ))"
 echo "Devidation: $(( a / b ))"
+
+#percentage
